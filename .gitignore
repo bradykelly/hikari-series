@@ -1,3 +1,5 @@
 .env
 hikari/
 tutorial/__pycache__/
+hikari/
+**/__pycache__/
